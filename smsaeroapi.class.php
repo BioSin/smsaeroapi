@@ -1,4 +1,7 @@
 <?php
+
+namespace valentinek\smsaero;
+
 /**
  * SMSAERO class for smsaero.ru
  *
