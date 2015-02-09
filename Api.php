@@ -10,7 +10,7 @@ namespace valentinek\smsaero;
  * @version 1.0
  */
 
-class Smsaero {
+class Api {
     private $gate;
     private $username;
     private $password;
