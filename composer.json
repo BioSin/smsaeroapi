@@ -1,0 +1,19 @@
+{
+  "name": "valentinek/smsaero",
+  "description": "PHP class for working with SmsAero.ru API",
+  "type": "library",
+  "keywords": [
+    "sms",
+    "smsaero",
+    "api"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "valentinek\\smsaero\\": "./"
+    }
+  }
+}
